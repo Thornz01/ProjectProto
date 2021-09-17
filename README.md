@@ -1,2 +1,2 @@
-Just testting how github works
+Just testing how github works
 INTERESTING
