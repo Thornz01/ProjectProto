@@ -15,6 +15,8 @@ module.exports = {
       "sidebar" : "#E8E8E8;",
       "second" : "#F5F5F5;",
       "white" : "#FFFFFF",
+      "blue" : "#0000ff"
+     
     },
     fontFamily:{
       Redhattext: ["Redhat, sans-serif"],
